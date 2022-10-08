@@ -1,0 +1,1 @@
+# Excel-Tricks-Text-Functions-in-Excel-Len-Len-function-in-Excel-helps-you-to-know-the-length-of-a
